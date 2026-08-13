@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "TAuthenticator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For authentication 2FA",
   "icons": {
     "16": "icons/icon16.png",
